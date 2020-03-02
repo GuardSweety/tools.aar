@@ -37,5 +37,17 @@
       <version>2.1.1</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>org.permissionsdispatcher</groupId>
+      <artifactId>permissionsdispatcher</artifactId>
+      <version>4.6.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.greenrobot</groupId>
+      <artifactId>eventbus</artifactId>
+      <version>3.1.1</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
