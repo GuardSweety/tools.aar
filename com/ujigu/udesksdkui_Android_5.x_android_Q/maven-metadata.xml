@@ -3,11 +3,12 @@
   <groupId>com.ujigu</groupId>
   <artifactId>udesksdkui_Android_5.x_android_Q</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <release>1.0.2</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
+      <version>1.0.2</version>
     </versions>
-    <lastUpdated>20200323035045</lastUpdated>
+    <lastUpdated>20200323045220</lastUpdated>
   </versioning>
 </metadata>
