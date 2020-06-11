@@ -3,11 +3,12 @@
   <groupId>com.ujigu</groupId>
   <artifactId>framework</artifactId>
   <versioning>
-    <release>1.3.3</release>
+    <release>1.3.4</release>
     <versions>
       <version>1.3.2</version>
       <version>1.3.3</version>
+      <version>1.3.4</version>
     </versions>
-    <lastUpdated>20200608033748</lastUpdated>
+    <lastUpdated>20200611034218</lastUpdated>
   </versioning>
 </metadata>
