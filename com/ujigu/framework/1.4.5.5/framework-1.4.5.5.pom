@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ujigu</groupId>
   <artifactId>framework</artifactId>
-  <version>1.4.5.4</version>
+  <version>1.4.5.5</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
