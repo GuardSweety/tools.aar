@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ujigu</groupId>
   <artifactId>framework</artifactId>
-  <version>1.4.5.9</version>
+  <version>1.4.6</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -107,6 +107,12 @@
       <groupId>com.orhanobut</groupId>
       <artifactId>logger</artifactId>
       <version>2.2.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.youth.banner</groupId>
+      <artifactId>banner</artifactId>
+      <version>2.1.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
